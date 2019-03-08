@@ -1,5 +1,3 @@
-import { isAbsolute } from "path";
-
 describe("Tic Tac Toe", () => {
   beforeEach(() => {
     cy.visit("/");
